@@ -1,0 +1,15 @@
+[submodule "packages/button"]
+	path = packages/button
+	url = git@github.com:brunofin/button.git
+[submodule "packages/bem"]
+	path = packages/bem
+	url = git@github.com:brunofin/bem.git
+[submodule "packages/core"]
+	path = packages/core
+	url = git@github.com:brunofin/core.git
+[submodule "apps/storybook"]
+	path = apps/storybook
+	url = git@github.com:brunofin/storybook.git
+[submodule "apps/next-example"]
+	path = apps/next-example
+	url = git@github.com:brunofin/next-example.git

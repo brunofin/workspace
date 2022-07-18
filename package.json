@@ -1,0 +1,14 @@
+{
+  "name": "@protolane/workspace",
+  "version": "1.0.0",
+  "description": "Workspace used to manage local dependencies",
+  "main": "index.js",
+  "repository": "git@github.com:brunofin/workspace.git",
+  "author": "Bruno Finger <bruno.k.finger@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*",
+    "apps/*"
+  ]
+}
